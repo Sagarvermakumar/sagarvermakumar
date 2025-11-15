@@ -22,9 +22,13 @@
 <a href="https://linkedin.com/in/sagarvermakumar">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:sksagarkumarverma@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
+<a href="https://dev-sagar.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+</a>
+
 </p>
 
 ---
@@ -37,7 +41,7 @@
 ---
 
 ## 📊 GitHub Stats  
-<div align="center">
+<div align="left">
 
 ![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarvermakumar&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -48,23 +52,24 @@
 ---
 
 ## 🏆 GitHub Trophies  
-<p align="center">
+<p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=sagarvermakumar&theme=algolia&row=1" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak  
-<p align="center">
+<p align="left">
 <img src="https://streak-stats.demolab.com/?user=sagarvermakumar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
-<p align="center">
-<img src="https://raw.githubusercontent.com/sagarvermakumar/sagarvermakumar/output/github-contribution-grid-snake-dark.svg" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sagarvermakumar/sagarvermakumar/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 
