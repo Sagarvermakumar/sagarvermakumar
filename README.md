@@ -1,41 +1,72 @@
 <h1 align="center">Hi 👋, I'm Sagar Verma</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h3 align="center">A passionate MERN & Next.js Developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js, MERN Stack, DevOps**
-- 👨‍💻 All of my projects are available at: [https://github.com/yourusername](https://github.com/yourusername)
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 How to reach me **sksagarkumarverma@gmail.com**
-- ⚡ Fun fact **I build full products fast!**
+---
 
-## 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/sagar-kumar-479a92219/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="mailto:sksagarkumarverma@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=sagarvermakumar&label=Profile%20Views&color=blue&style=flat)
 
-## 🛠️ Languages and Tools:
+---
+
+### 🚀 About Me  
+- 🌱 I’m currently learning **Next.js, MERN Stack, DevOps**  
+- 💼 I help people build **high-quality, fast, and modern web apps**  
+- 👨‍💻 All my projects are available here → **https://github.com/sagarvermakumar**  
+- 💬 Ask me about **React, Next.js, Node, MongoDB, UI/UX**  
+- 📩 Reach me at **sksagarkumarverma@gmail.com**  
+- ⚡ Fun fact: **I build full apps in days, not weeks!**
+
+---
+
+## 🌐 Connect with Me  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,git,github,firebase,tailwind,bootstrap,vscode" />
+<a href="https://linkedin.com/in/sagarvermakumar">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
 </p>
 
-## 📊 GitHub Stats:
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarvermakumar&show_icons=true&theme=tokyonight)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarvermakumar&layout=compact&theme=tokyonight)
+## 🛠️ Tech Stack  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,firebase,vercel,vscode,postman,figma" />
+</p>
 
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=sagarvermakumar&label=Profile%20views&color=0e75b6&style=flat)
+## 📊 GitHub Stats  
+<div align="center">
 
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarvermakumar&show_icons=true&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=sagarvermakumar&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarvermakumar&layout=compact&theme=tokyonight&hide_border=true)
 
-![snake gif](https://github.com/YOURUSERNAME/sagarvermakumar/blob/output/github-contribution-grid-snake.svg)
+</div>
 
+---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sagarvermakumar&theme=algolia&row=1" />
+</p>
 
+---
 
+## 🔥 Contribution Streak  
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=sagarvermakumar&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
+## 🐍 Contribution Snake  
+<p align="center">
+<img src="https://raw.githubusercontent.com/sagarvermakumar/sagarvermakumar/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 🚀 Thanks for Visiting My Profile!  
+⭐ **Feel free to star my repositories if you like my work!**
